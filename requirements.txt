@@ -1,0 +1,13 @@
+pip install langchain
+pip install openai
+pip install chromadb
+pip install unstructured
+pip install beautifulsoup4
+pip install tabulate
+pip install pdf2image
+pip install pytesseract
+pip install tiktoken
+
+pip install jupyterlab
+pip install notebook
+
