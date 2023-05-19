@@ -1,0 +1,88 @@
+Nvidia unveils 3 GeForce RTX 4060s starting at $299: DLSS 3 goes mainstream
+Nvidia's $299 GeForce RTX 4060, $399 RTX 4060 Ti 8GB, and $499 RTX 4060 Ti 16GB are coming.
+Brad Chacos
+By Brad Chacos
+Executive editor, PCWorld	May 18, 2023 6:00 am PDT	
+RTX 4060 family	
+Image: Nvidia	
+
+Seven long months after Nvidia’s new RTX 40-series graphics cards debuted in the brutally fast, but $1,600 GeForce RTX 4090, the company’s new Ada Lovelace architecture is finally coming to the masses. Today Nvidia unveiled not one, not two, but three members of the GeForce RTX 4060 lineup, with the first model—a $399 GeForce RTX 4060 Ti—hitting the streets next week on May 24.
+
+Nvidia also revealed that a $499 version of the RTX 4060 Ti with 16GB of memory (and no other tweaks) will launch in July, alongside the non-Ti GeForce RTX 4060 for $299.
+
+With the RTX 4060 Ti’s launch, Nvidia appears to be responding to a pair of recent graphics card controversies. First, the RTX 4060 Ti sticks to the same price as its predecessors, halting a trend of painfully exorbitant RTX 40-series pricing; second, the introduction of a step-up 16GB model addresses concerns about 8GB of VRAM simply not being enough for PC games anymore, albeit at a steep price that might not be worthwhile given some technical specifics of this GPU.
+
+Let’s dig in.
+
+    Further reading: The best graphics cards for PC gaming
+
+Meet Nvidia’s GeForce RTX 4060 Ti
+RTX 4060 family
+
+Nvidia
+
+Both versions of the GeForce RTX 4060 Ti are identical other than the raw memory capacity, a welcome change after Nvidia’s attempted (and aborted) RTX 4080 12GB launch, which originally meant there would be two totally different GPUs bearing the same RTX 4080 name. (That card wound up being relabeled as the RTX 4070 Ti.)
+
+Nvidia says the RTX 4060 Ti is tuned for exceptional 1080p gaming performance, as Steam’s hardware surveyed is dominated by xx60-class graphics cards and most of those people use 1080p displays. Built on the company’s new Ada Lovelace GPU architecture, the RTX 4060 Ti finally brings Ada’s incredible performance-supercharging DLSS 3 technology, NVENC with cutting-edge AV1 encoding, and superb power efficiency to more mainstream price points. The early performance results that Nvidia shared with press revolve around games that support ray tracing and DLSS, driving home GeForce’s AI focus these days. That’s fine and dandy but unfortunately obfuscates the potential uplift in raw GPU horsepower over its predecessors.
+RTX 4060 family
+
+Nvidia
+
+The company also shared some specifications for the RTX 4060 Ti that further press home the uplift in ray tracing, DLSS performance, and energy efficiency, but the charts only listed raw teraflop performance for the various GPU hardware cores, rather than spelling out explicit shader, RT, and tensor core counts. Early leaks suggest the RTX 4060 Ti has fewer CUDA cores than the RTX 3060 Ti (4,352 versus 4,864), which may be why Nvidia took this approach if true. (Ada Lovelace cores are more potent than the RTX 30-series’ Ampere cores, however.)
+
+One thing that’s certain: The memory bus width is being slimmed down, from 256-bit in the RTX 3060 Ti to just 128-bit in the 4060 Ti. Think of it like traffic congestion; if memory requests are cars, the bus width is the size of the road. A hundred cars move much faster on a four-lane highway than a single lane dirt road, and that speed is analogous to the card’s overall memory bandwidth. Ostensibly, the GeForce RTX 4060 Ti offers 288GB per second of overall memory bandwidth, compared to the 3060 Ti’s 448GB/s—a huge gulf.
+
+It’s not that simple though.
+RTX 4060 family
+
+An illustrative example of how traditional GPU memory works, without a larger on-die L2 cache.
+
+Nvidia
+RTX 4060 family
+
+A comparison image showing how the larger L2 cache in Nvidia’s RTX 40-series (“Ada Lovelace”) GPUs helps result in far fewer calls to traditional memory.
+
+Nvidia
+
+Nvidia swiped a page from AMD’s killer Infinity Cache technology for RTX 40-series offerings, dropping a large on-die cache onto the GPU itself, and the RTX 4060 family is no different. Not only does the closer physical proximity mean this cache is faster, but deploying it also reduces the need to send many requests out to the memory chips arrayed around the GPU itself, as illustrated in the slides above. While AMD’s Infinity Cache uses an L3 cache, Nvidia opted for a 32MB L2 cache instead (versus just 2MB on the 3060 Ti). The company says the larger L2 cache particularly helps improve ray tracing and DLSS performance, and results in the “effective” memory bandwidth shown in the technical specifications slide.
+
+Here’s the thing though: As evidenced in our review of the last-gen Radeon RX 6600 XT, which had 32MB of Infinity Cache and a 128-bit bus, pairing a big on-die cache with a neutered bus width helps the GPU perform exceptionally—both in performance and power—at the display resolution it’s targeted for, but usually results in lower-than-expected results at higher resolutions. Higher resolutions have higher memory needs, which results in fewer successful on-die cache hits. When that happens, the memory requests go out to traditional memory—and the RTX 4060 Ti’s much smaller 128-bit bus might falter when that happens.
+
+We’ll have to wait for reviews to see if that also holds true for the RTX 4060 Ti (it has for the RTX 4070 series, which uses similar technology tuned for 1440p gaming). It’ll be a bummer if so. The RTX 3060 Ti was one of the best GeForce cards last generation exactly because it offered both solid 1440p performance as well as exceptional 1080p gaming. (For what it’s worth, GeForce product manager Justin Walker says the RTX 4060 Ti can play games at 1440p, though you may need to adjust some settings in some games, and games that support DLSS will also see a performance bump.)
+rtx 4060 ti
+
+Performance results for the 16GB RTX 4060 Ti with DLSS; note that Resident Evil Remake and A Plague Tale: Requiem are set to Ultra settings on the 16GB chart, but reduced to High on the performance chart for the 8GB RTX 4060 Ti above.
+
+Nvidia
+
+If the RTX 4060 Ti indeed winds up being best for no-compromises 1080p gaming, its varying memory options may wind up being less significant. While some cutting-edge games already exceed 8GB at 1080p resolution, resulting in stuttering if you don’t adjust graphics settings, the vast majority do not. We’ll have to see what testing reveals when we get the cards in our hands on May 24 (8GB) and sometime in July (16GB).
+
+Both cards look to be remarkably power efficient, with the 8GB model rated for 160 watts and the 16GB model rated for 165W—a mere 5W difference between the two.
+Meet the GeForce RTX 4060
+
+But that’s not all! Nvidia also unveiled the $299 GeForce RTX 4060, disclosing both technical specs and early performance results.
+RTX 4060 family
+
+
+Nvidia
+
+Everything we said about the 4060 Ti being tuned for 1080p gaming definitely applies to the vanilla 4060 as well. This card actually uses a different core GPU than the 4060 Ti (code-name AD107 versus AD106, respectively) and based off the specifications Nvidia provided, it should be tangibly weaker than the Ti models. It still offers DLSS 3, AV1 encoding, extreme power efficiency, and all other Ada Lovelace benefits. Nvidia’s early performance teaser shows it beating its predecessor in games that support DLSS.
+RTX 4060 family
+
+
+Nvidia
+
+There are a couple things to note about the memory subsystem here, too. First, the on-die L2 cache is reduced to 24MB, compared to the Ti’s 32MB. And second, the RTX 4060 also comes with 8GB of RAM, while its RTX 3060 predecessor shipped with 12GB. Awkward—though to be fair, the RTX 3060 cost $329 at launch, while the RTX 4060 costs $299 on a more advanced manufacturing node.
+RTX 4060 family
+
+
+Nvidia
+
+Nvidia also took the step of revealing “1 percent low” performance results for the RTX 4060 against its predecessors to try to stave off memory concerns. When a game runs out of GPU VRAM, it bumps things all the way over to your much slower main system memory, which results in heavy stuttering. If that was happening in the games Nvidia selected, it would be revealed in the chart above. That said, activating ray tracing and DLSS changes technical demands, and all the games in this chart have DLSS active and ray tracing on when possible. The differences may be more or less noticeable in games without those features enabled.
+
+Again, we’ll have to see what independent testing reveals when the RTX 4060 launches in July.
+A budget GPU renaissance?
+
+After nearly half a decade of pandemic- and cryptocurrency-inspired neglect, there’s suddenly a battle being waged for PC gamers on a budget. Intel’s much-improved $250 Arc A750 and $350 Arc A770 compete in the same realm as the $299 4060 (with the A770 offering 16GB for that price) alongside discounted last-gen AMD options, while leaks suggest AMD also plans to imminently release an affordable new Radeon RX 7600.
+
+Final benchmarks will tell the full story, but it suddenly seems like affordable PC gaming is back on the menu, friends. It’s about damned time.

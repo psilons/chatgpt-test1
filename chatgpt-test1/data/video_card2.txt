@@ -1,0 +1,154 @@
+Zotac RTX 4070 Amp Airo review: Beefy, beautiful, and inaudible
+That's one awesome cooler!
+By Keith May and Brad Chacos
+PCWorld	Apr 21, 2023 3:30 am PDT	
+Zotac RTX 4070 Amp Airo	
+Image: Keith May/IDG	
+At a glance
+Expert's Rating
+Pros
+
+    Frigid temperatures
+    Inaudible
+    Gorgeous RGB lighting
+    Excellent 1440p and ray tracing performance
+    Excellent power efficiency
+    Excellent Nvidia features: DLSS 3 Frame Gen, DLSS, Reflex, Broadcast, RTX Video Super Resolution, and more
+
+Cons
+
+    Huge
+    Adds cost to already-pricey RTX 4070
+    Not well-suited for long-term 4K gaming due to memory design
+    No dual BIOS switch
+
+Our Verdict
+
+The Zotac Amp Airo adds heavy metal to the RTX 4070, using expert engineering and raw, brute cooling force to create a badass 1440p gaming experience that’s frigid, silent, and darn good looking.
+Price When Reviewed
+
+$699
+Best Prices Today: GeForce RTX 4070 Amp Airo
+Retailer
+Price
+Micro Center
+$669.99
+View Deal
+Newegg
+$669.99
+View Deal
+B&H Photo
+$699.99
+View Deal
+Price comparison from over 24,000 stores worldwide
+
+One of the things we love about Nvidia’s GeForce RTX 4070 Founders Edition graphics card is its diminutive size. Finally, after an RTX 40-series rollout exclusively composed of monstrous triple-slot beasts, a traditional two-slot design arrives! But what if you want the extreme cooling and ample extras a bigger graphics card provides? Enter the Zotac Gaming GeForce RTX 4070 Amp Airo.
+
+Ostensibly a $699 offering (though we’re seeing it going for $669 in some places RTX 4070s are sold), Zotac delivers a lot more heavy metal in the 2.5-slot Amp Airo, enhanced by attractive RGB lighting you won’t find in the Founders Edition. It also comes with a slight factory overclock. The tweaks help Zotac’s 4070 flagship run cooler, quieter, faster, and flashier than Nvidia’s homegrown model. Is it enough to justify the price increase?
+
+Let’s dig in.
+Zotac GeForce RTX 4070 Amp Airo specs and features
+
+At its core, the Zotac Amp Airo revolves around the same “GA104” GPU all RTX 4070s are built upon (which itself is a cut-down version of the GA102 die found in the $800 GeForce RTX 4070 Ti). Check out our original RTX 4070 review for the full details.
+
+In a nutshell, Nvidia’s RTX 4070 GPU delivers highly efficient, ultra-fast 1440p gaming and best-in-class ray tracing performance, bolstered by DLSS 3 Frame Generation and GeForce’s arsenal of fantastic software features (like RTX Video Super Resolution and Nvidia Reflex). It mercifully comes with 12GB of fast GDDR6X memory, an improvement over the RTX 3070’s 8GB of basic GDDR6, but Nvidia equipped it with a narrow 192-bit memory bus that limits its future potential at 4K resolution. Essentially, the RTX 4070 is an absolutely killer 1440p graphics card but don’t buy it if you’re looking to play at 4K long-term.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+
+Zotac changed a few things up, however—namely, applying a factory overclock. The RTX 4070 Amp Airo is rated for 2,535MHz boost clock speeds, compared to the Founders Edition’s 2,475MHz. That jolt, along with the flashy RGB lights, bump the rated power consumption to 215 watts, up from the Founders Edition’s 200W. It uses the same 16-pin 12VHPWR connector as Nvidia’s card, however, which connects to dual 8-pin power cables via an included adapter.
+
+But the real reason to consider buying this particular graphics card is for its kitted-out custom cooling design. The Zotac Gaming GeForce RTX 4070 Amp Airo offers an excellent take on the GeForce RTX 4070. While it may be at the upper end of the RTX 4070 pricing segment, the Amp Airo certainly has the construction to back up the increase.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+
+Coming in at 2.5 slots, it’s as big and bold as pricier RTX 40-series graphics cards, but because of the much lower power the 4070 operates at, this beefy beast runs ice cold and whisper quiet. The triple fans on the Icestorm 2.0 cooler allow Zotac’s Amp Airo to reach core clocks of around 2,750MHz under gaming loads while maintaining a sub-65C temperature. Better yet, we couldn’t capture the Amp Airo’s noise levels because the Arctic Cooling Liquid Freezer 2 420mm cooler used in our testing rig made more noise than the graphics card.
+
+Seriously. It’s that quiet.
+
+While the card is massive for this performance segment, it still has a sleek design that isn’t too garish, and Zotac had the foresight to toss a tasteful GPU support stand in the box. Thankfully, the card is built rock solid, so sag should be minimal anyway—meaning the support bracket won’t have to work too hard to keep the GPU nice and level. Still, we appreciate Zotac adding it.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+
+And this is a card that will want to be shown off. When the RTX 4070 Amp Airo is powered on, the side of the card illuminates in a surprisingly tasteful array of colors. By default, it’ll take you for a ride on rainbow road, but the RGB lighting can be configured with Zotac’s FireStorm Utility if you desire. Note, however, that this version of the Amp Airo lacks the dual BIOS switch found on pricier models.
+
+With that out of the way, let’s get to the benchmarks!
+Our test system
+
+Keith May tested the Zotac GeForce RTX 4070 Amp Airo on his testing system, which runs using the same core components as Brad’s main PCWorld GPU testing rig. You can see Keith explain the components in his rig in video form here, while this link details what’s inside the main GPU rig. Keith provided numbers for the Zotac card; the comparison data was pulled from our just-updated database of GPUs using the main test rig.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac GeForce RTX 4070 Amp Airo performance benchmarks
+
+Since we already know how the standard RTX 4070 performs, we performed several tests to see how the Zotac RTX 4070 Amp Airo performs, using the standard testing methods outlined in detail in the second link above. We also included ray tracing and DLSS benchmarks after the standard rasterization tests.
+
+We’ll let these benchmarks speak for themselves, merely setting the stage with some initial commentary. The Zotac Amp Airo’s mild factory overclock and outrageous cooling solution helps it run about 5 percent faster on average than the RTX 4070 Founders Edition, though that jumps to 11 percent in Total War: Troy. Differences in memory timings between the two test rigs may account for some of that, however, but expect the Zotac to run slightly faster than the Founders Edition overall.
+
+Again: This is a great, highly efficient 1440p graphics card with top-notch ray tracing and DLSS.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+Zotac GeForce RTX 4070 Amp Airo power and thermals
+
+We test power draw by looping the F1 22 benchmark at 4K for about 20 minutes after we’ve benchmarked everything else (to warm up the GPU) and noting the highest reading on our Watts Up Pro meter, which measures the power consumption of our entire test system. The initial part of the race, where all competing cars are onscreen simultaneously, tends to be the most demanding portion. 
+
+This isn’t a worst-case test; this is a GPU-bound game running at a GPU-bound resolution to gauge performance when the graphics card is sweating hard. If you’re playing a game that also hammers the CPU, you could see higher overall system power draws. Consider yourself warned.
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+
+As you can see, the RTX 4070 and Zotac’s Amp Airo absolutely sips power while delivering knockout 1440p performance. Props to Nvidia for the efficiency it achieved with this GPU.
+
+When it comes to cooling, the Amp Airo stayed below 65 degrees Celsius at all times. That’s deeply impressive, but it’s worth noting that the Founders Edition topped out at 67 degrees, so damned-good temperatures are a calling card for the 4070. Where Zotac adds its special sauce is in the noise levels: We couldn’t even try to capture those because the CPU cooler in our testing rig was louder than the Amp Airo’s fans. For all intents and purposes, this card is virtually silent—something the Founders Edition can’t claim.
+Should you buy the Zotac RTX 4070 Amp Airo?
+
+If you’re looking for a highly efficient 1440p graphics card backed by a bevy of modern features, like DLSS 3 Frame Generation and best-in-class ray tracing, the RTX 4070 is worth considering. It’s not a slam dunk recommendation given its high price, and you should look elsewhere for 4K gaming. We delve deeper into that breakdown in our original RTX 4070 review.
+
+But if you want a 4070 specifically, is the Zotac RTX 4070 Amp Airo worth buying? It depends on your desires.
+
+    Further reading: GeForce RTX 4070 vs. RTX 3080 vs. Radeon RX 6800 XT: Which GPU should you buy?
+
+Zotac RTX 4070 Amp Airo
+
+Keith May/IDG
+
+Nvidia’s RTX 4070 Founders Edition delivers essentially the same performance and power efficiency in a smaller two-slot design. Go that route if you’re building a small form-factor PC. If you’re rocking something more large and in charge, the beefier Zotac Amp Airo is worth considering. Its heft not only helps it perform a wee bit faster than the Founders Edition, but all that heavy metal also keeps this beast running ice-cold and utterly silent even when under the most strenuous gaming loads. Silent running is a massive quality-of-life upgrade that can’t be understated. And hot damn, its rainbow LEDs look good.
+
+The problem is that the RTX 4070 is already priced uncomfortably high for our tastes. Adding extra costs on top only exacerbates that. That said, you’ll always pay a price premium for a slickly designed, well-engineered custom card like the Zotac Amp Airo. We’re seeing it go for anywhere from $669 to $699 depending on where you shop. If the whisper-quiet noise levels, slightly faster performance, eye-catching RGB lights, and frigid temperatures are worthwhile to you, go for it—though we’d suggest going with one of the lower priced retailers if you can.
+Best Prices Today: GeForce RTX 4070 Amp Airo
+Retailer
+Price
+Micro Center
+$669.99
+View Deal
+Newegg
+$669.99
+View Deal
+B&H Photo
+$699.99
+View Deal
+Price comparison from over 24,000 stores worldwide
